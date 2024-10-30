@@ -1,0 +1,60 @@
+﻿segment;profile;initial_investment_amount;maximum_investment_amount;initial_period;product_1_family;product_1_id;product_2_family;product_1_id;product_3_family;product_3_id
+Individual;Ultra-Conservative;0;50000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;PAB
+Individual;Ultra-Conservative;50001;100000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;PAB
+Individual;Ultra-Conservative;100001;200000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;PAB
+Individual;Ultra-Conservative;200001;300000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;PAB
+Individual;Conservative;0;50000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Conservative;50001;100000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Conservative;100001;200000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Conservative;200001;300000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Moderate;0;50000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Moderate;50001;100000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Moderate;100001;200000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Moderate;200001;300000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Dynamic;0;50000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Dynamic;50001;100000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Dynamic;100001;200000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Dynamic;200001;300000;Less than 6 months;Investment Funds;AGF;Investment Funds;VTR;Investment Funds;SOB
+Individual;Ultra-Conservative;50001;100000;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;2
+Individual;Ultra-Conservative;100001;200000;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;2
+Individual;Ultra-Conservative;200001;300000;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;2
+Individual;Ultra-Conservative;300001;99999999999;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;2
+Individual;Conservative;50001;100000;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Conservative;100001;200000;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Conservative;200001;300000;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Conservative;300001;99999999999;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Moderate;50001;100000;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;1
+Individual;Moderate;100001;200000;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;1
+Individual;Moderate;200001;300000;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;1
+Individual;Moderate;300001;99999999999;Up to 1 year;Investment Funds;SOB;COE;7450;Fixed Income;1
+Individual;Dynamic;50001;100000;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Dynamic;100001;200000;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Dynamic;200001;300000;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Dynamic;300001;99999999999;Up to 1 year;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Ultra-Conservative;0;50000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Ultra-Conservative;50001;100000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Ultra-Conservative;100001;200000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Ultra-Conservative;200001;300000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Conservative;0;50000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Conservative;50001;100000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Conservative;100001;200000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Conservative;200001;300000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;2
+Individual;Moderate;0;50000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Moderate;50001;100000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Moderate;100001;200000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Moderate;200001;300000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Dynamic;0;50000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Dynamic;50001;100000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Dynamic;100001;200000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Dynamic;200001;300000;1 to 3 years;Pension;MBC;COE;7450;Fixed Income;1
+Individual;Ultra-Conservative;50001;100000;More than 3 years;Fixed Income;1;Investment Funds;EXE;Pension;MBC
+Individual;Ultra-Conservative;100001;200000;More than 3 years;Fixed Income;1;Investment Funds;EXE;Pension;MBC
+Individual;Ultra-Conservative;200001;300000;More than 3 years;Fixed Income;1;Investment Funds;EXE;Pension;MBC
+Individual;Ultra-Conservative;300001;99999999999;More than 3 years;Fixed Income;1;Investment Funds;EXE;Pension;MBC
+Individual;Conservative;50001;100000;More than 3 years;Fixed Income;1;Investment Funds;EXE;Investment Funds;EXE
+Individual;Conservative;100001;200000;More than 3 years;Fixed Income;1;Investment Funds;EXE;Investment Funds;EXE
+Individual;Conservative;200001;300000;More than 3 years;Fixed Income;1;Investment Funds;EXE;Investment Funds;EXE
+Individual;Conservative;300001;99999999999;More than 3 years;Fixed Income;1;Investment Funds;EXE;Investment Funds;EXE
+Individual;Moderate;50001;100000;More than 3 years;Fixed Income;1;Pension;MBC;Investment Funds;VTR
+Individual;Moderate;100001;200000;More than 3 years;Fixed
+
